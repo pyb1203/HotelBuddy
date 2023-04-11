@@ -1,0 +1,10 @@
+allure-pytest==2.3.2b1
+flake8==3.5.0
+flake8-junit-report==2.1.0
+pytest==3.5.1
+mypy==0.580
+requests
+pytest-cov
+mock==2.0.0
+selenium==3.9.0
+pyvirtualdisplay
